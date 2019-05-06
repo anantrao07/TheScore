@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!--Sort Menu items Strings-->
+    <string name="sort_by_name">sort by Name</string>
+    <string name="sort_by_wins">sort by Wins</string>
+    <string name="sort_by_loss">sort by Losses</string>
+
+    <!--Team List Page Strings-->
+    <string name="wins">Wins %1$d</string>
+    <string name="loss">Losses %1$d</string>
+    <string name="teamName">Team Name</string>
+
+    <!--Team Details PAge TextViews-->
+    <string name="playerFirstName">First Name: %1$s</string>
+    <string name="playerLastName">Last Name: %1$s</string>
+    <string name="playerPosition">Position: %1$s</string>
+    <string name="playerNumber">Number: %1$d</string>
+    <string name="players_list">Player\'s List</string>
+
+    <!--Toast Errors-->
+    <string name="networkError">Please check your network connection</string>
+
+</resources>
